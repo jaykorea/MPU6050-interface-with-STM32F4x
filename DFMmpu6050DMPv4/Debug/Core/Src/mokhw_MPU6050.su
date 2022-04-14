@@ -1,0 +1,6 @@
+mokhw_MPU6050.c:5:6:WHO_AM_I	32	static
+mokhw_MPU6050.c:20:6:wake_up	32	static
+mokhw_MPU6050.c:35:6:set_sample_rate	32	static
+mokhw_MPU6050.c:53:6:set_sensitivity	40	static
+mokhw_MPU6050.c:119:6:read_gyro	40	static
+mokhw_MPU6050.c:152:6:read_accel	40	static

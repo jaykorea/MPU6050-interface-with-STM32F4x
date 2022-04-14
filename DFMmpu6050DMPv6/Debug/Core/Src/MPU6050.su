@@ -1,0 +1,9 @@
+MPU6050.c:13:9:MPU6050_Init	40	static
+MPU6050.c:87:6:MPU6050_Calibrate	48	static
+MPU6050.c:112:6:MPU6050_ReadAccel	40	static
+MPU6050.c:122:6:MPU6050_ReadGyro	40	static
+MPU6050.c:131:6:MPU6050_ReadTemperature	40	static
+MPU6050.c:138:6:MPU6050_Read	48	static
+MPU6050.c:152:6:MPU6050_ConvertRawValues	16	static
+MPU6050.c:166:6:MPU6050_ComplementaryFilter	40	static
+MPU6050.c:180:6:MPU6050_ZeroAll	16	static
